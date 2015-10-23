@@ -1,7 +1,14 @@
 /*stylsheet for resume site A100*/
 
-h1{
+.heading{
 	text-align:center; 
 	background-color:#FF9900;
 }
 
+h4{
+	font-weight:bold;
+}
+
+body{
+	background-color:#C6E2FF
+}
