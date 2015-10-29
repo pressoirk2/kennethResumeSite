@@ -1,18 +1,19 @@
 /*stylsheet for resume site A100*/
 
-.heading{
-	text-align:center; 
-	background-color:#FF9900;
+.heading {
+	text-align: center; 
+	background-color: #FF9900;
+	font-family: courier;
 }
 
-h4{
-	font-weight:bold;
+h4 {
+	font-weight: bold;
 }
 
-body{
-	background-color:#C6E2FF
+body {
+	background-color: #C6E2FF;
 }
 
-span{
-	font-style:italic;
+span {
+	font-style: italic;
 }
