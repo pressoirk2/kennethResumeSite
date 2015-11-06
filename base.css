@@ -1,0 +1,47 @@
+body {
+  background-color: #ecf0f1;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+div.Border {
+	width: 400px;
+	height: 300px;	
+}
+
+#bcard {
+	/* */
+	max-width: 50vw;
+	padding: 20px;
+
+	background: white;
+	box-shadow: 5px 5px rgba(0,0,0,0.1);
+
+	text-align: center;
+}
+
+.fa {
+	font-size: 2.5rem;
+	font-size: 2.5rem;
+}
+
+.quote {
+	font-weight: 200;
+	font-style: italic;
+	font-size: 1.5rem;
+}
+
+img {
+	border: 8px solid #ecf0f1;
+	max-width: 150px;
+	border-radius: 50%
+}
+
+
+a:link, a:visited {
+	color: blue;
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+}
