@@ -74,3 +74,7 @@ body {
 span {
 	font-style: italic;
 }
+
+.experience p span {
+	float: right;
+}
